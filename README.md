@@ -1,2 +1,3 @@
-# ingas_app
-day care application 
+# Potentiostat
+Potentiostat Serial Comm and Graphing with java
+
